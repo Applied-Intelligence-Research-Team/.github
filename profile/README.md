@@ -70,7 +70,8 @@ For research collaboration or inquiries, please contact:
 
 **Przemyslaw Wiktor Pardel**  
 Department of Computer Science, Faculty of Engineering Sciences  
-University of Applied Sciences in Nowy Sacz, Poland
+University of Applied Sciences in Nowy Sacz, Poland  
+📧 ppardel@ans-ns.ur.edu.pl
 
 ---
 
