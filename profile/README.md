@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Applied-Intelligence-Research-Team/.github/main/profile/air-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/Applied-Intelligence-Research-Team/.github/main/profile/air-logo-light.svg" alt="Applied Intelligence Research Team logo" width="420">
+  </picture>
+</p>
+
 # Applied Intelligence Research Team
 
 The **Applied Intelligence Research Team (ANS AIR Team)** is a research team hosted at the
